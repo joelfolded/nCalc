@@ -133,8 +133,8 @@ void setup() {
   lcd.setCursor(0,0);
   lcd.print("nCalc 3");
   lcd.setCursor(0,1);
-  lcd.print("starting...");
-  delay(730);
+  lcd.print("nCalc 3");
+  delay(1450);
   lcd.clear();
 }
 
