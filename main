@@ -72,8 +72,8 @@ void setup() {
   lcd.setCursor(0,0);
   lcd.print("nCalc 2");
   lcd.setCursor(0,1);
-  lcd.print("starting...");
-  delay(900);
+  lcd.print("nCalc 2");
+  delay(1600);
   lcd.clear();
 }
 
